@@ -1,6 +1,6 @@
 # AI is the future
 
-Ashley T (17/01/2023 22:47:46): Hello, thank you for contacting Kryterion Support my name is Ashley.
+Ashley T (17/01/2023 22:47:46): Hello, thank you for contacting ***** Support my name is Ashley.
 Before we continue, please provide the email address associated with your Webassessor account. 
 
 Yahya (17/01/2023 22:48:07): Hi Ashley 
