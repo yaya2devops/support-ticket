@@ -11,7 +11,7 @@ Before we continue, please provide the email address associated with your Webass
 
 - **Yahya** (17/01/2023 22:48:36): I want to reschedule my exam which was suspende due to camera shutdown during checkin in process 
 
-- **Yahya** (17/01/2023 22:49:06): Kindly allow me to send you media 
+- **Yahya** (17/01/2023 22:49:06): Kindly allow me to send you [media](the-media.png)
 
 - **Yahya** (17/01/2023 22:49:13): open button 
 
